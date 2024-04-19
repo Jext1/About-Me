@@ -2,4 +2,5 @@
 
 - Discord 
 
-```https://discord.com/invite/pxgnwKdGdR```
+```lua
+https://discord.com/invite/pxgnwKdGdR```
