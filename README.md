@@ -3,4 +3,4 @@
 - Discord 
 
 ```lua
-https://discord.com/invite/pxgnwKdGdR```
+https://discord.com/invite/pxgnwKdGdR
